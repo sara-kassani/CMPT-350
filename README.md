@@ -1,1 +1,1 @@
-# CMPT-350
+# Resources for CMPT-350 Course
